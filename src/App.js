@@ -7,9 +7,9 @@ import Bus from './components/Bus'
 function App() {
   return (
     <div>
-      {/* <BasicClass/>
+      <BasicClass/>
       <BasicFunc/>
-      <BasicFuncTwo/> */}
+      <BasicFuncTwo/>
       <Todos/>
       <Bus/>
     </div>
